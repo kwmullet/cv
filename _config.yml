@@ -1,0 +1,8 @@
+# theme: midnight
+title: Curriculum Vitae
+# description: last updated 
+# remote_theme: pages-themes/modernist@v0.2.0
+github:
+  is_project_page: false
+show_downloads: false
+#google_analytics: [Your Google Analytics tracking ID]

@@ -1,0 +1,33 @@
+
+
+
+@import {{site.theme}};
+
+
+  ul {
+    list-style-type: none;
+    font-weight: 900;
+    font-size: larger;
+    padding-left: 50px ;
+    text-indent: -50px ;
+  }
+
+  body {
+  opacity: 1.0 ;
+  color: #000;
+  font-weight:800;
+  font-size:large;
+  margin-bottom:20px ;
+  }
+
+header {
+  display: none !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
