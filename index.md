@@ -5,7 +5,7 @@
   </style>
 
 <h1>Kevin W. Mullet</h1>
-> last updated {{ "now" | date: "%Y-%m-%d %H:%M" }}
+> last updated {{ "now" | date: "%Y-%m-%d %H:%M" }}GMT
 <h4>
 Albuquerque, NM 87121<br>
 (505) 633-6878<br>
