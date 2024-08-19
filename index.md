@@ -14,7 +14,7 @@ Albuquerque, NM 87121<br>
 </h4>
 
 ## Education
-- B.A. December 2013. University of New Mexico, Albuquerque, NM. Sociocultural and Linguistic Anthropology with a minor in Journalism and Mass Communication (pending)
+- B.A. December 2013. University of New Mexico, Albuquerque, NM. Anthropology (concentration in Ethnology) with a minor in Journalism and Mass Communication.
 
 
 ## Publications
