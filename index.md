@@ -15,6 +15,7 @@ Albuquerque, NM 87121<br>
 
 ## Education
 - B.A. December 2013. University of New Mexico, Albuquerque, NM. Anthropology (concentration in Ethnology) with a minor in Journalism and Mass Communication.
+  
 ## Publications
 ### Books
 - 2000 Mullet, D., and Mullet, K. Managing IMAP. Sebastopol, CA: O’Reilly. 9780596000127
